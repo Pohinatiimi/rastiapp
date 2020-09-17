@@ -40,7 +40,7 @@ const MagicBag = () => {
     if (buttonVisibility) {
         arvoButton = (
             <div className="buttonDiv">
-                <button onClick={chooseWords}>ARVO!</button>
+                <button onClick={chooseWords} ontouchstart="">ARVO!</button>
             </div>
         );
     }
