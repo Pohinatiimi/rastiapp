@@ -19,8 +19,7 @@ const pohina = [
     { "fi": "Bootstrappaus", "en": "Bootstrapping" },
     { "fi": "Ideaatio", "en": "Ideation" },
     { "fi": "Ekosysteemi", "en": "Ecosystem" },
-    { "fi": "Iteraatio", "en": "Iteration" },
-    { "fi": "Alustatalous", "en": "Platform economy" },
+    { "fi": "Iteraatio", "en": "Iteration" }
 ]
 
 const normal = [
