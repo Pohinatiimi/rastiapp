@@ -1,6 +1,5 @@
 import React from 'react'
 import { CSSTransition } from 'react-transition-group';
-import { Textfit } from 'react-textfit';
 
 const WordList = ({ list }) => {
     const bgColors = ["#F4511E", "#FDD835", "#FFB300", "#FB8C00", "#43A047", "#7CB342", "#C0CA33", 
